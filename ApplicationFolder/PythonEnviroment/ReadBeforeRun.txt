@@ -1,0 +1,9 @@
+Use the included python virtual enviroment first.
+
+Windows:
+.\env\Scripts\activate 
+
+Linux/Mac:
+source env/bin/activate
+
+Then continue
